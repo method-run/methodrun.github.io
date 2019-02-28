@@ -1,0 +1,6 @@
+[submodule "submodules/pxb-daycycle"]
+	path = submodules/pxb-daycycle
+	url = https://github.com/pixelbandito/pxb-daycycle
+[submodule "submodules/pxb-day-dial"]
+	path = submodules/pxb-day-dial
+	url = git@github.com:pixelbandito/pxb-day-dial.git

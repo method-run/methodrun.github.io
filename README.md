@@ -1,2 +1,2 @@
 # methodrun.github.io
-Personsal web page
+Personal web page
